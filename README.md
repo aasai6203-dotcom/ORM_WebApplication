@@ -27,7 +27,10 @@ class carAdmin(admin.ModelAdmin): list_display=('carid','carname','colour','year
 
 """
 ## OUTPUT
-<img width="1310" height="696" alt="image" src="https://github.com/user-attachments/assets/335175e4-68af-480c-9350-05d34cf9f2dc" />
+<img width="1910" height="949" alt="Screenshot 2025-11-25 095048" src="https://github.com/user-attachments/assets/20ace25c-4c15-48cf-b221-f238ef458b42" />
+<img width="1900" height="918" alt="Screenshot 2025-11-25 095106" src="https://github.com/user-attachments/assets/de70f0f9-e0b4-454a-b2a6-8c26d7548d37" />
+<img width="1881" height="826" alt="Screenshot 2025-11-26 001630" src="https://github.com/user-attachments/assets/6715ca12-468a-42dc-8113-bd7dcd2b6537" />
+
 
 
 ## RESULT
