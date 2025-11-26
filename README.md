@@ -40,9 +40,7 @@ admin.site.register(Student, StudentAdmin)
 
 """
 ## OUTPUT
-![alt text](<Screenshot 2025-11-26 001630-1.png>)
 
-
-
+![alt text](<Screenshot 2025-11-26 001630.png>) ![alt text](<Screenshot 2025-11-26 001630-1.png>) ![alt text](<Screenshot 2025-11-25 095106.png>) ![alt text](<Screenshot 2025-11-25 095106 copy.png>) ![alt text](<Screenshot 2025-11-25 095048.png>)
 ## RESULT
 Thus the program for creating car inventory database database using ORM hass been executed successfully
